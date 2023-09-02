@@ -1,0 +1,65 @@
+[
+    {
+        "name":"iphone",
+        "price":"154",
+        "featured":true,
+        "company":"apple"
+
+    },
+    {
+        "name":"realme7i",
+        "price":"200",
+        "featured":false,
+        "company":"realme"
+
+    },
+    {
+        "name":"mipro",
+        "price":"120",
+        "featured":true,
+        "company":"mi"
+
+    },
+    {
+        "name":"realme7ipro",
+        "price":"190",
+        "featured":true,
+        "company":"realme"
+
+    },
+    {
+        "name":"iphone20",
+        "price":"250",
+        "featured":false,
+        "company":"apple"
+
+    },
+    {
+        "name":"mi20",
+        "price":"140",
+        "featured":true,
+        "company":"mi"
+
+    },
+    {
+        "name":"redmipro",
+        "price":"300",
+        "featured":false,
+        "company":"redmi"
+
+    },
+    {
+        "name":"realmemarzo",
+        "price":"160",
+        "featured":true,
+        "company":"realme"
+
+    },
+    {
+        "name":"redmibook",
+        "price":"180",
+        "featured":false,
+        "company":"redmi"
+
+    }
+]
